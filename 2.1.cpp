@@ -1,4 +1,4 @@
-//2.A ±í´ïÊ½ÇóÖµ
+//2.A è¡¨è¾¾å¼æ±‚å€¼
 #include<bits/stdc++.h>
 using namespace std;
 long long pwr(long long a, long long b){

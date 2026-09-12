@@ -1,4 +1,4 @@
-//2.C ×ÖÄ¸ÓÎÏ·
+//2.C å­—æ¯æ¸¸æˆ
 #include <bits/stdc++.h>
 using namespace std;
 

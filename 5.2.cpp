@@ -1,4 +1,4 @@
-//5.B ¶ş²æÊ÷Ã¿²ã¶ÈÎª1½ÚµãÊı
+//5.B äºŒå‰æ ‘æ¯å±‚åº¦ä¸º1èŠ‚ç‚¹æ•°
 #include<bits/stdc++.h>
 using namespace std;
 struct node{

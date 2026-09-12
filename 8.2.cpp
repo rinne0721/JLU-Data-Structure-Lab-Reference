@@ -1,4 +1,4 @@
-//8.B ȥ��վ
+//8.B 去火车站
 #include <bits/stdc++.h>
 using namespace std;
 const long long INF = 1e18;

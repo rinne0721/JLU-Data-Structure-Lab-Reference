@@ -1,4 +1,4 @@
-//6.C 图的深度优先遍历
+//6.C 鍥剧殑娣卞害浼樺厛閬嶅巻
 #include<bits/stdc++.h>
 #define maxn 20005
 using namespace std;

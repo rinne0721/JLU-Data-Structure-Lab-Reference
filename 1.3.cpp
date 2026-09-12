@@ -1,4 +1,4 @@
-//1.C Ê¹ÓÃÕ»·Çµİ¹éÇó½âººÅµËşÎÊÌâ
+//1.C ä½¿ç”¨æ ˆéé€’å½’æ±‚è§£æ±‰è¯ºå¡”é—®é¢˜
 #include<bits/stdc++.h>
 using namespace std;
 struct hanoi{

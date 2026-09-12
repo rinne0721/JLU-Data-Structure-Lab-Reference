@@ -1,4 +1,4 @@
-//8.A ˫ʮһ
+//8.A 双十一
 #include<bits/stdc++.h>
 #define inf 100005
 using namespace std;

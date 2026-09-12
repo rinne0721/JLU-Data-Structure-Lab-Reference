@@ -1,4 +1,4 @@
-//8.C ÍøÂç²¼Ïß
+//8.C ç½‘ç»œå¸ƒçº¿
 #include<bits/stdc++.h>
 #define maxn 605
 using namespace std;

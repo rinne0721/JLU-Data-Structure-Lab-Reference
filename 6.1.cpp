@@ -1,4 +1,4 @@
-//6.A Í¼µÄ´´½¨
+//6.A å›¾çš„åˆ›å»º
 #include<bits/stdc++.h>
 using namespace std;
 struct edge{
