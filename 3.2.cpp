@@ -1,3 +1,4 @@
+//3.B 二叉树查找节点与父节点
 #include<bits/stdc++.h>
 using namespace std;
 struct node{

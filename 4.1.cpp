@@ -1,3 +1,4 @@
+//4.A ¶ş²æÊ÷É¾³ı×ÓÊ÷
 #include<bits/stdc++.h>
 using namespace std;
 struct node{

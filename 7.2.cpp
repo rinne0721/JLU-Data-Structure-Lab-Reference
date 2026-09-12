@@ -1,3 +1,4 @@
+//7.B 关键路径
 //边（u,v,w)为关键路径的唯一条件：ve+w=vl
 #include <bits/stdc++.h>
 using namespace std;

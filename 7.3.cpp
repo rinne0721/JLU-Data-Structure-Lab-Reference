@@ -1,3 +1,4 @@
+//7.C 最少点字典序最短路径
 #include <bits/stdc++.h>
 using namespace std;
 #define maxn 20005

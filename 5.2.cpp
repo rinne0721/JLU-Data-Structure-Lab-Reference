@@ -1,3 +1,4 @@
+//5.B 二叉树每层度为1节点数
 #include<bits/stdc++.h>
 using namespace std;
 struct node{

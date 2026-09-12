@@ -1,3 +1,4 @@
+//1.C 使用栈非递归求解汉诺塔问题
 #include<bits/stdc++.h>
 using namespace std;
 struct hanoi{

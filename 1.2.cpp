@@ -1,3 +1,4 @@
+//1.B 小明走格子
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

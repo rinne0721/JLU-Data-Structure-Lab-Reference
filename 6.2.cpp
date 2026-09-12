@@ -1,3 +1,4 @@
+//6.B 悟空救唐僧
 #include <bits/stdc++.h>
 using namespace std;
 const int maxn = 105;

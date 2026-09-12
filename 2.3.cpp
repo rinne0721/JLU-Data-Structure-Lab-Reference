@@ -1,3 +1,4 @@
+//2.C вжд╦сно╥
 #include <bits/stdc++.h>
 using namespace std;
 

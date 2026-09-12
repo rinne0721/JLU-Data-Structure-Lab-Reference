@@ -1,3 +1,4 @@
+//2.B EDG
 #include <bits/stdc++.h>
 using namespace std;
 
