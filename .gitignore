@@ -1,0 +1,17 @@
+# Compiled executables produced from the numbered C++ exercises
+2.3
+3.2
+
+# Common C/C++ build artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
